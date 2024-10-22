@@ -1,5 +1,5 @@
 ## About me
-I'm Xiangrui Kong, a senior undergraduate student majoring in the Honor Computer Science College at Purdue University. 
+I'm Xiangrui Kong, a senior student in the Honors College of Computer Science at Purdue Univeristy.  
 
 ## Experience
 **Teaching Assistant for undergraduate course CS381-Algorithms (Spring 2023 - Present)**
