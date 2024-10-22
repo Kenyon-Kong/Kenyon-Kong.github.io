@@ -1,5 +1,5 @@
 ## About me
-I'm Xiangrui Kong, a senior student in the Honors College of Computer Science at Purdue Univeristy.  
+I'm Xiangrui Kong, a senior student in the Honors College of Computer Science at Purdue Univeristy. As an undergraduate student, I have completed coursework in compliers, operating systems, algorithm, machine learning and deep learning. My academic interests are in machine learning and algorithms. While I have some research experience in computer vision, I am eager to learn and explore other areas within the machine learning industry.
 
 ## Experience
 **Teaching Assistant for undergraduate course CS381-Algorithms (Spring 2023 - Present)**
@@ -11,6 +11,7 @@ I'm Xiangrui Kong, a senior student in the Honors College of Computer Science at
 
 
 **Intern in Software Department @ Guangzhou Zonerich Business Machine Co. (July 2024 - August 2024)**
+[Project Repository](https://github.com/Kenyon-Kong/SymbolDetection)
   - Designed, built, and embedded neural network models for business machines for specific tasks
   - Developed a Python/C++ pipeline for detecting symbols and stains on identity cards using a custom convolutional neural network
   - Involved in all stages of the project, including requirements analysis, algorithm development, model training, and deployment, and collaborated closely with the team to solve technical challenges
