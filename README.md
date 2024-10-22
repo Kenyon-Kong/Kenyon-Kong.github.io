@@ -25,18 +25,18 @@ I'm Xiangrui Kong, a senior student in the Honors College of Computer Science at
 Collected 400+ valid data videos, and also labeled, categorized and analyzed 2000+ data samples
 
 ### Integrating Symbolic Reasoning Into Neural Generative Models For 3D-Space Design Generation
-[Paper](asset/Final_Report.pdf)
+[Paper](asset/final report.pdf)
 
 
 
 ## Personal Project
 ### Starting Great Adventure: A Deep Dive into Stable Diffusion 
-[Paper](asset/final report.pdf)
+[Paper](asset/Final_Report.pdf)
 
 ## Related Coursework
 - **CS 37300** - Data Mining and Machine Learning
 - **CS 35200** - Compilers: Principles and Practice
 - **CS 35400** - Operating Systems
 - **CS 38100** - Algorithms
-- **CS 58700** - Deep Learning
 - **CS 58000** - Analysis of Algorithms
+- **CS 58700** - Deep Learning
