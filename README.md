@@ -22,42 +22,23 @@ I'm Xiangrui Kong, a senior student in the Honors College of Computer Science at
 [Publication](https://arxiv.org/abs/2312.16256)
 [Project Website](https://dl3dv-10k.github.io/DL3DV-10K/)
 
-Collected 400+ valid data videos, and also labeled, categorized and analyzed 2000+ data samples
+During this project, I collected over 400 valid video samples and meticulously labeled, categorized, and analyzed more than 2,000 data samples to support research objectives. I contributed to the development of the research webpage and participated in visualizing data insights using the ECharts library. Additionally, I gained hands-on experience with the academic research process, actively engaging in regular research meetings. This work culminated in a publication that has been accepted for presentation at CVPR 2024.
 
 ### Integrating Symbolic Reasoning Into Neural Generative Models For 3D-Space Design Generation
 [Paper](asset/final report.pdf)
 
-Replicated and improved the extended version of SPRINGV2 using Jupyter Notebook, mainly involving three modules: 
-perception module, spatial reasoning module and visual element generator module 
-Learned and utilized neural network models for object detection (DETR50), Segment-Anything (SAM), and depth 
-estimation (Depth- Anything) in the perception pipeline 
-Designed new method for improving post-processing results for wall detection, increased the accuracy for boundary 
-detection from 30% to 90% 
-Improved segmentation accuracy by eliminating repetitive detection, eliminating redundancy and errors up to 90 
-percent for a custom dataset 
-
-
+In this project, I replicated and enhanced an extended version of SPRINGV2 using Jupyter Notebook, focusing on three key modules: the perception module, spatial reasoning module, and visual element generator module. I applied neural network models such as DETR50 for object detection, Segment-Anything (SAM) for segmentation, and Depth-Anything for depth estimation within the perception pipeline. Additionally, I developed a new method to improve post-processing accuracy for wall detection, raising boundary detection accuracy from 30% to 90%. I also enhanced segmentation accuracy by reducing repetitive detections and minimizing redundancy and errors by up to 90% for a custom dataset.
 
 ## Personal Project
 ### Starting Great Adventure: A Deep Dive into Stable Diffusion 
 [Paper](asset/Final_Report.pdf)
 
-Literature-reviewed diffusion related papers, familiarized with math concepts behind diffusion models 
-Reconstructed Stable Diffusion v-1.5 from scratch using Pytorch library, and loaded pre-trained weights for forward 
-inference 
-Implemented the entire DDPM pipeline including data loader, network structure, as well as training pipeline targeting 
-smaller datasets 
-Conducted successful image generation experiments on the Stable Diffusion v-1.5. 
-Achieved clear class recognition in generated images for dataset like MNIST, Fashion-MNIST and CIFAR-10 on the 
-DDPM model 
-Built a comprehensive Jupyter Notebook tutorial including math section and coding section for future educational use.
+In this project, I conducted a literature review of diffusion-related papers and developed a strong understanding of the mathematical foundations behind diffusion models. I reconstructed Stable Diffusion v-1.5 from scratch using the PyTorch library and integrated pre-trained weights for forward inference. I implemented the full Denoising Diffusion Probabilistic Model (DDPM) pipeline, including the data loader, network structure, and training pipeline, specifically optimized for smaller datasets. I ran successful image generation experiments on Stable Diffusion v-1.5, achieving high-quality, class-recognizable outputs on datasets like MNIST, Fashion-MNIST, and CIFAR-10. Additionally, I created a detailed Jupyter Notebook tutorial, covering both mathematical explanations and code implementations, to support future educational use.
 
 ### C Compiler for MiniJava
+[Project Repository]([https://github.com/Kenyon-Kong/SymbolDetection](https://github.com/Kenyon-Kong/C-Compiler-for-MiniJava.git))
 
-Utilized Yacc, Lex and Bison to handle java code recognition. 
-Implemented Linked List and Tree structure in constructing Abstract syntax tree and symbol table
-Constructed code for transforming java code into assembly code including  memory allocation for primitive variables and arrays, basic execution for branch operations and method call, ect. The built compiler can finish most of  the tasks of a real Java language compiler.
-Optimized memory allocation using hardware register by implementing k-coloring algorithm
+In this project, I used Yacc, Lex, and Bison to enable Mini-Java code recognition within a custom compiler. I implemented data structures such as Linked Lists and Trees to construct the Abstract Syntax Tree (AST) and symbol table. I also developed code to transform Mini-Java code into assembly code, handling tasks such as memory allocation for primitive variables and arrays, executing branch operations, and managing method calls. The resulting compiler was capable of performing most tasks expected of a real Java language compiler. To optimize memory allocation, I applied a k-coloring algorithm for efficient hardware register usage.
 
 # C++ & C Shell Terminal
 
@@ -67,9 +48,10 @@ Constructed additional features including auto-complete typing, input command hi
 
 
 ## Related Coursework
-- **CS 37300** - Data Mining and Machine Learning
 - **CS 35200** - Compilers: Principles and Practice
 - **CS 35400** - Operating Systems
+- **CS 37300** - Data Mining and Machine Learning
 - **CS 38100** - Algorithms
+- **CS 49700** - Honors Research
 - **CS 58000** - Analysis of Algorithms
 - **CS 58700** - Deep Learning
