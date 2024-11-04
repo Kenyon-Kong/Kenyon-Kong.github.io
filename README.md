@@ -36,11 +36,11 @@ In this project, I replicated and enhanced an extended version of SPRINGV2 using
 In this project, I conducted a literature review of diffusion-related papers and developed a strong understanding of the mathematical foundations behind diffusion models. I reconstructed Stable Diffusion v-1.5 from scratch using the PyTorch library and integrated pre-trained weights for forward inference. I implemented the full Denoising Diffusion Probabilistic Model (DDPM) pipeline, including the data loader, network structure, and training pipeline, specifically optimized for smaller datasets. I ran successful image generation experiments on Stable Diffusion v-1.5, achieving high-quality, class-recognizable outputs on datasets like MNIST, Fashion-MNIST, and CIFAR-10. Additionally, I created a detailed Jupyter Notebook tutorial, covering both mathematical explanations and code implementations, to support future educational use.
 
 ### C Compiler for MiniJava
-[Project Repository]([https://github.com/Kenyon-Kong/SymbolDetection](https://github.com/Kenyon-Kong/C-Compiler-for-MiniJava.git))
+[Project Repository](https://github.com/Kenyon-Kong/C-Compiler-for-MiniJava.git)
 
 In this project, I used Yacc, Lex, and Bison to enable Mini-Java code recognition within a custom compiler. I implemented data structures such as Linked Lists and Trees to construct the Abstract Syntax Tree (AST) and symbol table. I also developed code to transform Mini-Java code into assembly code, handling tasks such as memory allocation for primitive variables and arrays, executing branch operations, and managing method calls. The resulting compiler was capable of performing most tasks expected of a real Java language compiler. To optimize memory allocation, I applied a k-coloring algorithm for efficient hardware register usage.
 
-# C++ & C Shell Terminal
+### C++ & C Shell Terminal
 
 Implemented Yacc and Lex to recognize commands grammar
 Utilized builtin system calls for executing, redirecting, and piping
