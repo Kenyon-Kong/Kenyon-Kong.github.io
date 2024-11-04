@@ -40,7 +40,6 @@ In this project, I conducted a literature review of diffusion-related papers and
 
 In this project, I used Yacc, Lex, and Bison to enable Mini-Java code recognition within a custom compiler. I implemented data structures such as Linked Lists and Trees to construct the Abstract Syntax Tree (AST) and symbol table. I also developed code to transform Mini-Java code into assembly code, handling tasks such as memory allocation for primitive variables and arrays, executing branch operations, and managing method calls. The resulting compiler was capable of performing most tasks expected of a real Java language compiler. To optimize memory allocation, I applied a k-coloring algorithm for efficient hardware register usage.
 
-
 ## Related Coursework
 - **CS 35200** - Compilers: Principles and Practice
 - **CS 35400** - Operating Systems
